@@ -7,3 +7,6 @@ Generate a (time)table and color it based on number of sessions and the number o
 
 ## TO DO List
 A simple to do list for tracking your tasks, with a few features: due date, priority, flags.
+
+## Billable hours
+Track your billable hours with this template
